@@ -4,6 +4,7 @@ class Personnage {
 	}
 
 	public void Deplacer(Direction direction){
+		
 
 	}
 }
