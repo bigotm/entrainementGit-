@@ -4,7 +4,7 @@ class Personnage {
 	}
 
 	public void Deplacer(Direction direction){
-		
 
 	}
+	public void pouvoir(Feu feu)
 }
